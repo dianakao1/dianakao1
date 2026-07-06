@@ -9,7 +9,7 @@ I design interfaces that feel **effortless** — and occasionally build playful 
 
 <br/>
 
-🌐&nbsp;[portfolio](https://example.com) &nbsp;·&nbsp; 💼&nbsp;[linkedin](https://linkedin.com/in/your-handle) &nbsp;·&nbsp; ✉️&nbsp;[say hello](mailto:diana.kao.work@gmail.com)
+🌐&nbsp;[portfolio](https://dianakao.com) &nbsp;·&nbsp; 💼&nbsp;[linkedin](https://www.linkedin.com/in/dianakao1/) &nbsp;·&nbsp; ✉️&nbsp;[say hello](mailto:diana.kao.work@gmail.com)
 
 </div>
 
