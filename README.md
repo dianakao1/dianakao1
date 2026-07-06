@@ -19,7 +19,7 @@ I design interfaces that feel **effortless** — and occasionally build playful 
 
 **Clarity over cleverness.** Interfaces should explain themselves — every label, every state, every empty screen.
 
-**Craft in the details.** The 2px that nobody notices consciously is the 2px everybody feels.
+**Warmth over polish.** The best products feel like they were made by someone who cares about the person on the other side — forgiving when you fumble, encouraging when you explore.
 
 **Play as a design tool.** Delight isn't decoration; it's how products earn a second visit.
 
