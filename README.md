@@ -29,7 +29,7 @@ I design interfaces that feel **effortless** — and occasionally build playful 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,html,css,js,py&theme=dark" alt="Figma, XD, Photoshop, Illustrator, HTML, CSS, JavaScript, Python"/>
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,html,css,js,py&theme=dark" alt="Figma, XD, Photoshop, Illustrator, HTML, CSS, JavaScript, Python" height="48"/> <img src="assets/claude.svg" alt="Claude" height="48"/> <img src="assets/openai.svg" alt="ChatGPT" height="48"/>
 
 <br/>
 <sub>design systems · prototyping · user research · Python</sub>
