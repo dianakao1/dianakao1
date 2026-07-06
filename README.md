@@ -32,7 +32,7 @@ I design interfaces that feel **effortless** — and occasionally build playful 
 <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,html,css,js,py&theme=dark" alt="Figma, XD, Photoshop, Illustrator, HTML, CSS, JavaScript, Python"/>
 
 <br/>
-<sub>design systems · prototyping · user research · a dangerous amount of Python</sub>
+<sub>design systems · prototyping · user research · Python</sub>
 
 </div>
 
