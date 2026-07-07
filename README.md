@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Diana Kao — UX Designer" width="100%"/>
+<img src="assets/banner.svg" alt="Diana Kao, UX Designer" width="100%"/>
 
 <br/>
 <br/>
 
-I design interfaces that feel **effortless** — and occasionally build playful things to prove a point.
+I design interfaces that feel **effortless**, and occasionally build playful things to prove a point.
 
 <br/>
 
@@ -17,9 +17,9 @@ I design interfaces that feel **effortless** — and occasionally build playful 
 
 ## ✦ &nbsp;What I care about
 
-**Clarity over cleverness.** Interfaces should explain themselves — every label, every state, every empty screen.
+**Clarity over cleverness.** Interfaces should explain themselves: every label, every state, every empty screen.
 
-**Warmth over polish.** The best products feel like they were made by someone who cares about the person on the other side — forgiving when you fumble, encouraging when you explore.
+**Warmth over polish.** The best products feel like they were made by someone who cares about the person on the other side: forgiving when you fumble, encouraging when you explore.
 
 **Play as a design tool.** Delight isn't decoration; it's how products earn a second visit.
 
@@ -40,9 +40,9 @@ I design interfaces that feel **effortless** — and occasionally build playful 
 
 ## ✦ &nbsp;Featured experiment
 
-**🪞 Foggy Mirror** — a webcam toy where you *breathe* on the screen to fog it up, then draw in the condensation with your fingertip. Real-time hand tracking, breath detection through the mic, a voice trigger, and cerulean sparkles. Built with Python, OpenCV & MediaPipe.
+**🪞 Foggy Mirror** is a webcam toy where you *breathe* on the screen to fog it up, then draw in the condensation with your fingertip. Real-time hand tracking, breath detection through the mic, a voice trigger, and cerulean sparkles. Built with Python, OpenCV & MediaPipe.
 
-<sub>Currently in a private repo — ask me for a demo. ✨</sub>
+<sub>Currently in a private repo. Ask me for a demo. ✨</sub>
 
 <br/>
 
@@ -57,5 +57,5 @@ I design interfaces that feel **effortless** — and occasionally build playful 
 ---
 
 <div align="center">
-<sub>designed with care — and a little fog ✨</sub>
+<sub>designed with care, and a little fog ✨</sub>
 </div>
